@@ -1,0 +1,976 @@
+# <!=Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront 2.5.8\n"
+"Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
+"POT-Creation-Date: 2020-07-06 14:25:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-07-14 18:31+0400\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: az\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Səhifə tapılmadı."
+
+#: 404.php:22
+msgid ""
+"Nothing was found at this location. Try searching, or check out the links "
+"below."
+msgstr "Axtarışa cəhd edin və ya aşağıdakı bağlantıları nəzərdən keçirin."
+
+#: 404.php:25 inc/woocommerce/storefront-woocommerce-template-functions.php:673
+msgid "Search"
+msgstr "Axtarış"
+
+#: 404.php:39
+msgid "Promoted Products"
+msgstr "Təqdim olunan məhsullar"
+
+#: 404.php:45 404.php:47
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:278
+msgid "Product Categories"
+msgstr "Məhsul kateqoriyalar"
+
+#: 404.php:59 404.php:61
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:436
+msgid "Popular Products"
+msgstr "Populyar məhsullar"
+
+#: comments.php:21
+msgid "Post Comments"
+msgstr "Şərhlər göndərin"
+
+#: comments.php:38
+msgid "Comment Navigation Above"
+msgstr "Yuxarıdakı şərh naviqasiyası"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Şərh naviqasiyası"
+
+#: comments.php:40 comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Köhnə şərhlər"
+
+#: comments.php:41 comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Yeni şərhlər &rarr;"
+
+#: comments.php:58
+msgid "Comment Navigation Below"
+msgstr "Aşağıda şərh naviqasiyası"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Şərhlər bağlıdır."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Heç nə tapılmadı"
+
+#. translators: 1: URL
+#: content-none.php:23
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Bağışlayın, ancaq axtarış sözlərinizə heç bir şey uyğun gəlmədi. Zəhmət "
+"olmasa, fərqli açar sözlərlə yenidən cəhd edin."
+
+#: content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Deyəsən axtardığınızı tapa bilmirik. Bəlkə də axtarış kömək edə bilər."
+
+#: inc/admin/class-storefront-admin.php:72
+msgid "Support"
+msgstr "Dəstək"
+
+#: inc/admin/class-storefront-admin.php:73
+msgid "Documentation"
+msgstr "Sənədlər"
+
+#: inc/admin/class-storefront-admin.php:74
+msgid "Development blog"
+msgstr "Development blog"
+
+#. translators: 1: HTML, 2: HTML
+#: inc/admin/class-storefront-admin.php:91
+msgid "Setup complete %1$sYour Storefront adventure begins now 🚀%2$s "
+msgstr "Setup complete %1$sYour Storefront adventure begins now 🚀%2$s "
+
+#: inc/admin/class-storefront-admin.php:92
+msgid ""
+"One more thing... You might be interested in the following Storefront "
+"extensions and designs."
+msgstr ""
+"One more thing... You might be interested in the following Storefront "
+"extensions and designs."
+
+#: inc/admin/class-storefront-admin.php:94
+msgid ""
+"Hello! You might be interested in the following Storefront extensions and "
+"designs."
+msgstr ""
+"Hello! You might be interested in the following Storefront extensions and "
+"designs."
+
+#: inc/admin/class-storefront-admin.php:101
+msgid "Storefront Extensions Bundle"
+msgstr "Storefront Extensions Bundle"
+
+#: inc/admin/class-storefront-admin.php:107
+msgid ""
+"All the tools you'll need to define your style and customize Storefront."
+msgstr ""
+"All the tools you'll need to define your style and customize Storefront."
+
+#: inc/admin/class-storefront-admin.php:111
+msgid ""
+"Make it yours without touching code with the Storefront Extensions bundle. "
+"Express yourself, optimize conversions, delight customers."
+msgstr ""
+"Make it yours without touching code with the Storefront Extensions bundle. "
+"Express yourself, optimize conversions, delight customers."
+
+#: inc/admin/class-storefront-admin.php:116
+msgid "Read more and purchase"
+msgstr "Read more and purchase"
+
+#: inc/admin/class-storefront-admin.php:120
+msgid "Alternate designs"
+msgstr "Alternate designs"
+
+#: inc/admin/class-storefront-admin.php:124
+msgid ""
+"Quickly and easily transform your shops appearance with Storefront child "
+"themes."
+msgstr ""
+"Quickly and easily transform your shops appearance with Storefront child "
+"themes."
+
+#: inc/admin/class-storefront-admin.php:128
+msgid ""
+"Each has been designed to serve a different industry - from fashion to food."
+msgstr ""
+"Each has been designed to serve a different industry - from fashion to food."
+
+#: inc/admin/class-storefront-admin.php:132
+msgid "Of course they are all fully compatible with each Storefront extension."
+msgstr ""
+"Of course they are all fully compatible with each Storefront extension."
+
+#: inc/admin/class-storefront-admin.php:136
+msgid "Check 'em out"
+msgstr "Check 'em out"
+
+#. translators: %s: Automattic branding
+#: inc/admin/class-storefront-admin.php:145
+msgid "An %s project"
+msgstr "An %s project"
+
+#: inc/admin/class-storefront-admin.php:174
+#: inc/admin/class-storefront-plugin-install.php:62
+msgid "Activated"
+msgstr "Activated"
+
+#: inc/admin/class-storefront-admin.php:183
+#: inc/admin/class-storefront-plugin-install.php:75
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/admin/class-storefront-admin.php:198
+#: inc/admin/class-storefront-plugin-install.php:94
+msgid "Install now"
+msgstr "Install now"
+
+#: inc/admin/class-storefront-admin.php:205
+msgid "Learn more"
+msgstr "Daha ətraflı"
+
+#. translators: conjunction of two alternative options user can choose (in
+#. missing plugin admin notice). Example: "Activate WooCommerce or learn more"
+#: inc/admin/class-storefront-plugin-install.php:113
+msgid "or"
+msgstr "və ya"
+
+#: inc/admin/class-storefront-plugin-install.php:114
+msgid "learn more"
+msgstr "daha ətraflı"
+
+#: inc/class-storefront.php:94
+#: inc/nux/class-storefront-nux-starter-content.php:162
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: inc/class-storefront.php:95
+#: inc/nux/class-storefront-nux-starter-content.php:182
+msgid "Secondary Menu"
+msgstr "Secondary Menu"
+
+#: inc/class-storefront.php:96
+#: inc/nux/class-storefront-nux-starter-content.php:192
+msgid "Handheld Menu"
+msgstr "Handheld Menu"
+
+#: inc/class-storefront.php:191
+msgid "Small"
+msgstr "Kiçik"
+
+#: inc/class-storefront.php:196
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/class-storefront.php:201
+msgid "Medium"
+msgstr "Orta"
+
+#: inc/class-storefront.php:206
+msgid "Large"
+msgstr "Geniş"
+
+#: inc/class-storefront.php:211
+msgid "Huge"
+msgstr "Böyük"
+
+#: inc/class-storefront.php:235
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/class-storefront.php:241
+msgid "Below Header"
+msgstr "Below Header"
+
+#: inc/class-storefront.php:243
+msgid ""
+"Widgets added to this region will appear beneath the header and above the "
+"main content."
+msgstr ""
+"Widgets added to this region will appear beneath the header and above the "
+"main content."
+
+#. translators: 1: column number
+#: inc/class-storefront.php:256
+msgid "Footer Column %1$d"
+msgstr "Footer Column %1$d"
+
+#. translators: 1: column number
+#: inc/class-storefront.php:259
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr "Widgets added here will appear in column %1$d of the footer."
+
+#. translators: 1: row number, 2: column number
+#: inc/class-storefront.php:262
+msgid "Footer Row %1$d - Column %2$d"
+msgstr "Footer Row %1$d - Column %2$d"
+
+#. translators: 1: column number, 2: row number
+#: inc/class-storefront.php:265
+msgid "Widgets added here will appear in column %1$d of footer row %2$d."
+msgstr "Widgets added here will appear in column %1$d of footer row %2$d."
+
+#: inc/class-storefront.php:338
+msgid "Expand child menu"
+msgstr "Expand child menu"
+
+#: inc/class-storefront.php:339
+msgid "Collapse child menu"
+msgstr "Collapse child menu"
+
+#: inc/class-storefront.php:507
+msgid "Post Navigation"
+msgstr "Post Navigation"
+
+#. translators: 1: Storefront, 2: start <a> tag, 3: Storefront, 4: end <a> tag
+#: inc/customizer/class-storefront-customizer-control-more.php:29
+msgid ""
+"There's a range of %1$s extensions available to put additional power in your "
+"hands. Check out the %2$s%3$s%4$s page in your dashboard for more "
+"information."
+msgstr ""
+"There's a range of %1$s extensions available to put additional power in your "
+"hands. Check out the %2$s%3$s%4$s page in your dashboard for more "
+"information."
+
+#. translators: %s: Storefront
+#: inc/customizer/class-storefront-customizer-control-more.php:36
+msgid "Enjoying %s?"
+msgstr "Enjoying %s?"
+
+#. translators: 1: start <a> tag, 2: end <a> tag
+#: inc/customizer/class-storefront-customizer-control-more.php:43
+msgid ""
+"Why not leave us a review on %1$sWordPress.org%2$s?  We'd really appreciate "
+"it!"
+msgstr ""
+"Why not leave us a review on %1$sWordPress.org%2$s?  We'd really appreciate "
+"it!"
+
+#: inc/customizer/class-storefront-customizer.php:122
+msgid "Background"
+msgstr "Background"
+
+#: inc/customizer/class-storefront-customizer.php:126
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/class-storefront-customizer.php:171
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/customizer/class-storefront-customizer.php:189
+#: inc/customizer/class-storefront-customizer.php:400
+msgid "Heading color"
+msgstr "Heading color"
+
+#: inc/customizer/class-storefront-customizer.php:210
+#: inc/customizer/class-storefront-customizer.php:326
+#: inc/customizer/class-storefront-customizer.php:421
+#: inc/customizer/class-storefront-customizer.php:495
+msgid "Text color"
+msgstr "Text color"
+
+#: inc/customizer/class-storefront-customizer.php:231
+msgid "Link / accent color"
+msgstr "Link / accent color"
+
+#: inc/customizer/class-storefront-customizer.php:252
+msgid "Hero heading color"
+msgstr "Hero heading color"
+
+#: inc/customizer/class-storefront-customizer.php:273
+msgid "Hero text color"
+msgstr "Hero text color"
+
+#: inc/customizer/class-storefront-customizer.php:286
+msgid "Header background image"
+msgstr "Header background image"
+
+#: inc/customizer/class-storefront-customizer.php:305
+#: inc/customizer/class-storefront-customizer.php:379
+#: inc/customizer/class-storefront-customizer.php:474
+msgid "Background color"
+msgstr "Background color"
+
+#: inc/customizer/class-storefront-customizer.php:347
+#: inc/customizer/class-storefront-customizer.php:442
+msgid "Link color"
+msgstr "Link color"
+
+#: inc/customizer/class-storefront-customizer.php:360
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/class-storefront-customizer.php:362
+msgid "Customize the look & feel of your website footer."
+msgstr "Customize the look & feel of your website footer."
+
+#: inc/customizer/class-storefront-customizer.php:455
+msgid "Buttons"
+msgstr "Buttons"
+
+#: inc/customizer/class-storefront-customizer.php:457
+msgid "Customize the look & feel of your website buttons."
+msgstr "Customize the look & feel of your website buttons."
+
+#: inc/customizer/class-storefront-customizer.php:516
+msgid "Alternate button background color"
+msgstr "Alternate button background color"
+
+#: inc/customizer/class-storefront-customizer.php:537
+msgid "Alternate button text color"
+msgstr "Alternate button text color"
+
+#: inc/customizer/class-storefront-customizer.php:550
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/class-storefront-customizer.php:567
+msgid "General Layout"
+msgstr "General Layout"
+
+#: inc/customizer/class-storefront-customizer.php:583
+msgid "More"
+msgstr "More"
+
+#: inc/customizer/class-storefront-customizer.php:598
+msgid "Looking for more options?"
+msgstr "Looking for more options?"
+
+#: inc/nux/class-storefront-nux-admin.php:84
+msgid "Thanks for installing Storefront, you rock! 🤘"
+msgstr "Thanks for installing Storefront, you rock! 🤘"
+
+#: inc/nux/class-storefront-nux-admin.php:85
+msgid ""
+"To enable eCommerce features you need to install the WooCommerce plugin."
+msgstr ""
+"To enable eCommerce features you need to install the WooCommerce plugin."
+
+#: inc/nux/class-storefront-nux-admin.php:86
+msgid "WooCommerce activated"
+msgstr "WooCommerce activated"
+
+#: inc/nux/class-storefront-nux-admin.php:86
+msgid "Activate WooCommerce"
+msgstr "Activate WooCommerce"
+
+#: inc/nux/class-storefront-nux-admin.php:86
+msgid "Install WooCommerce"
+msgstr "Install WooCommerce"
+
+#: inc/nux/class-storefront-nux-admin.php:90
+msgid "Design your store 🎨"
+msgstr "Design your store 🎨"
+
+#: inc/nux/class-storefront-nux-admin.php:94
+msgid ""
+"Before you add your first product let's design your store. We'll add some "
+"example products for you. When you're ready let's get started by adding your "
+"logo."
+msgstr ""
+"Before you add your first product let's design your store. We'll add some "
+"example products for you. When you're ready let's get started by adding your "
+"logo."
+
+#: inc/nux/class-storefront-nux-admin.php:96
+msgid ""
+"You've set up WooCommerce, now it's time to give it some style! Let's get "
+"started by entering the Customizer and adding your logo."
+msgstr ""
+"You've set up WooCommerce, now it's time to give it some style! Let's get "
+"started by entering the Customizer and adding your logo."
+
+#: inc/nux/class-storefront-nux-admin.php:117
+msgid "Apply the Storefront homepage template"
+msgstr "Apply the Storefront homepage template"
+
+#: inc/nux/class-storefront-nux-admin.php:119
+msgid "Create a homepage using Storefront's homepage template"
+msgstr "Create a homepage using Storefront's homepage template"
+
+#: inc/nux/class-storefront-nux-admin.php:127
+msgid "Add example products"
+msgstr "Add example products"
+
+#: inc/nux/class-storefront-nux-admin.php:132
+#: inc/nux/class-storefront-nux-guided-tour.php:112
+msgid "Let's go!"
+msgstr "Let's go!"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:83
+msgid "Next"
+msgstr "Next"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:89
+msgid "No thanks, skip the tour"
+msgstr "No thanks, skip the tour"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:91
+msgid "Skip this step"
+msgstr "Skip this step"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:109
+msgid "Welcome to the Customizer"
+msgstr "Welcome to the Customizer"
+
+#. translators: %s: 'End Of Line' symbol
+#: inc/nux/class-storefront-nux-guided-tour.php:111
+msgid ""
+"Here you can control the overall look and feel of your store.%sTo get "
+"started, let's add your logo"
+msgstr ""
+"Here you can control the overall look and feel of your store.%sTo get "
+"started, let's add your logo"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:118
+msgid "Add your logo"
+msgstr "Add your logo"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:119
+msgid ""
+"Open the Site Identity Panel, then click the 'Select Logo' button to upload "
+"your logo."
+msgstr ""
+"Open the Site Identity Panel, then click the 'Select Logo' button to upload "
+"your logo."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:125
+msgid "Customize your navigation menus"
+msgstr "Customize your navigation menus"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:126
+msgid ""
+"Organize your menus by adding Pages, Categories, Tags, and Custom Links."
+msgstr ""
+"Organize your menus by adding Pages, Categories, Tags, and Custom Links."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:131
+msgid "Choose your accent color"
+msgstr "Choose your accent color"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:132
+msgid ""
+"In the typography panel you can specify an accent color which will be "
+"applied to things like links and star ratings. We recommend using your brand "
+"color for this setting."
+msgstr ""
+"In the typography panel you can specify an accent color which will be "
+"applied to things like links and star ratings. We recommend using your brand "
+"color for this setting."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:137
+msgid "Color your buttons"
+msgstr "Color your buttons"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:138
+msgid ""
+"Choose colors for your button backgrounds and text. Once again, brand colors "
+"are good choices here."
+msgstr ""
+"Choose colors for your button backgrounds and text. Once again, brand colors "
+"are good choices here."
+
+#. translators: 1: open <strong> tag, 2: close <strong> tag, 3: 'End Of Line'
+#. symbol
+#: inc/nux/class-storefront-nux-guided-tour.php:145
+msgid ""
+"All set! Remember to %1$ssave & publish%2$s your changes when you're done."
+"%3$sYou can return to your dashboard by clicking the X in the top left "
+"corner."
+msgstr ""
+"All set! Remember to %1$ssave & publish%2$s your changes when you're done."
+"%3$sYou can return to your dashboard by clicking the X in the top left "
+"corner."
+
+#: inc/nux/class-storefront-nux-guided-tour.php:147
+msgid "Done"
+msgstr "Done"
+
+#: inc/nux/class-storefront-nux-starter-content.php:71
+msgid "About"
+msgstr "About"
+
+#: inc/nux/class-storefront-nux-starter-content.php:72
+msgid ""
+"You might be an artist who would like to introduce yourself and your work "
+"here or maybe you&rsquo;re a business with a mission to describe."
+msgstr ""
+"You might be an artist who would like to introduce yourself and your work "
+"here or maybe you&rsquo;re a business with a mission to describe."
+
+#: inc/nux/class-storefront-nux-starter-content.php:76
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/nux/class-storefront-nux-starter-content.php:77
+msgid ""
+"This is a page with some basic contact information, such as an address and "
+"phone number. You might also try a plugin to add a contact form."
+msgstr ""
+"This is a page with some basic contact information, such as an address and "
+"phone number. You might also try a plugin to add a contact form."
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Homepage"
+
+#: inc/nux/class-storefront-nux-starter-content.php:213
+#: inc/nux/class-storefront-nux-starter-content.php:1101
+msgid "Welcome"
+msgstr "Welcome"
+
+#. translators: %s: 'End Of Line' symbol
+#: inc/nux/class-storefront-nux-starter-content.php:215
+msgid ""
+"This is your homepage which is what most visitors will see when they first "
+"visit your shop.%sYou can change this text by editing the \"Welcome\" page "
+"via the \"Pages\" menu in your dashboard."
+msgstr ""
+"This is your homepage which is what most visitors will see when they first "
+"visit your shop.%sYou can change this text by editing the \"Welcome\" page "
+"via the \"Pages\" menu in your dashboard."
+
+#: inc/nux/class-storefront-nux-starter-content.php:723
+msgid "Accessories"
+msgstr "Accessories"
+
+#: inc/nux/class-storefront-nux-starter-content.php:724
+#: inc/nux/class-storefront-nux-starter-content.php:727
+#: inc/nux/class-storefront-nux-starter-content.php:730
+msgid "A short category description"
+msgstr "A short category description"
+
+#: inc/nux/class-storefront-nux-starter-content.php:726
+msgid "Hoodies"
+msgstr "Hoodies"
+
+#: inc/nux/class-storefront-nux-starter-content.php:729
+msgid "Tshirts"
+msgstr "Tshirts"
+
+#: inc/nux/class-storefront-nux-starter-content.php:735
+msgid "Beanie"
+msgstr "Beanie"
+
+#: inc/nux/class-storefront-nux-starter-content.php:757
+msgid "Belt"
+msgstr "Belt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:779
+msgid "Cap"
+msgstr "Cap"
+
+#: inc/nux/class-storefront-nux-starter-content.php:801
+msgid "Sunglasses"
+msgstr "Sunglasses"
+
+#: inc/nux/class-storefront-nux-starter-content.php:822
+msgid "Hoodie with Logo"
+msgstr "Hoodie with Logo"
+
+#: inc/nux/class-storefront-nux-starter-content.php:843
+msgid "Hoodie with Pocket"
+msgstr "Hoodie with Pocket"
+
+#: inc/nux/class-storefront-nux-starter-content.php:865
+msgid "Hoodie with Zipper"
+msgstr "Hoodie with Zipper"
+
+#: inc/nux/class-storefront-nux-starter-content.php:886
+msgid "Hoodie"
+msgstr "Hoodie"
+
+#: inc/nux/class-storefront-nux-starter-content.php:908
+msgid "Long Sleeve Tee"
+msgstr "Long Sleeve Tee"
+
+#: inc/nux/class-storefront-nux-starter-content.php:929
+msgid "Polo"
+msgstr "Polo"
+
+#: inc/nux/class-storefront-nux-starter-content.php:950
+msgid "Tshirt"
+msgstr "Tshirt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:971
+msgid "Vneck Tshirt"
+msgstr "Vneck Tshirt"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1040
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:259
+msgid "Shop by Category"
+msgstr "Kateqoriya üzrə"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1048
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:311
+msgid "New In"
+msgstr "Yeni"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1058
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:417
+msgid "Fan Favorites"
+msgstr "Sevimlilər"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1066
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:470
+msgid "On Sale"
+msgstr "Endirim"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1074
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:523
+msgid "Best Sellers"
+msgstr "Ən yaxşı satıcılar"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1105
+msgid ""
+"This is your homepage which is what most visitors will see when they first "
+"visit your shop."
+msgstr ""
+"This is your homepage which is what most visitors will see when they first "
+"visit your shop."
+
+#: inc/nux/class-storefront-nux-starter-content.php:1109
+msgid ""
+"You can change this text by editing the \"Welcome\" page via the \"Pages\" "
+"menu in your dashboard."
+msgstr ""
+"You can change this text by editing the \"Welcome\" page via the \"Pages\" "
+"menu in your dashboard."
+
+#: inc/nux/class-storefront-nux-starter-content.php:1135
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:364
+msgid "We Recommend"
+msgstr "Tövsiyə edirik"
+
+#: inc/storefront-template-functions.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Şərhiniz moderasiya gözləyir."
+
+#: inc/storefront-template-functions.php:74
+msgid "Edit"
+msgstr "Redaktə edin"
+
+#: inc/storefront-template-functions.php:141
+msgid "WooCommerce - The Best eCommerce Platform for WordPress"
+msgstr "WooCommerce - The Best eCommerce Platform for WordPress"
+
+#: inc/storefront-template-functions.php:141
+msgid "Built with Storefront &amp; WooCommerce"
+msgstr "Built with Storefront &amp; WooCommerce"
+
+#: inc/storefront-template-functions.php:143
+msgid "Storefront -  The perfect platform for your next WooCommerce project."
+msgstr "Storefront -  The perfect platform for your next WooCommerce project."
+
+#: inc/storefront-template-functions.php:143
+msgid "Built with Storefront"
+msgstr "Built with Storefront"
+
+#: inc/storefront-template-functions.php:240
+msgid "Primary Navigation"
+msgstr "İlkin naviqasiya"
+
+#: inc/storefront-template-functions.php:241
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/storefront-template-functions.php:272
+msgid "Secondary Navigation"
+msgstr "Secondary Navigation"
+
+#: inc/storefront-template-functions.php:296
+msgid "Skip to navigation"
+msgstr "Skip to navigation"
+
+#: inc/storefront-template-functions.php:297
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: inc/storefront-template-functions.php:309
+msgid "Edit this section"
+msgstr "Bu bölməni düzəldin"
+
+#: inc/storefront-template-functions.php:355
+#: inc/storefront-template-functions.php:426
+msgid "Pages:"
+msgstr "Səhifələr:"
+
+#. translators: %s: post title
+#: inc/storefront-template-functions.php:417
+msgid "Continue reading %s"
+msgstr "%s oxumağa davam edin"
+
+#. translators: %s: post date
+#: inc/storefront-template-functions.php:467
+msgid "Posted on %s"
+msgstr "%s yerləşdirilib"
+
+#: inc/storefront-template-functions.php:473
+msgid "by"
+msgstr "tərəfindən"
+
+#: inc/storefront-template-functions.php:482
+msgid "Leave a comment"
+msgstr "Şərh yaz"
+
+#: inc/storefront-template-functions.php:482
+msgid "1 Comment"
+msgstr "1 Şərh"
+
+#: inc/storefront-template-functions.php:482
+msgid "% Comments"
+msgstr "% Şərhlər"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/storefront-template-functions.php:521
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edit <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/storefront-template-functions.php:544
+#: inc/storefront-template-functions.php:547
+msgid ", "
+msgstr ", "
+
+#: inc/storefront-template-functions.php:553
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kateqoriya:"
+msgstr[1] "Kateqoriyalar:"
+
+#: inc/storefront-template-functions.php:559
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tag:"
+msgstr[1] "Taglar:"
+
+#: inc/storefront-template-functions.php:591
+msgid "Next post:"
+msgstr "Növbəti yazı:"
+
+#: inc/storefront-template-functions.php:592
+msgid "Previous post:"
+msgstr "Əvvəlki yazı:"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:59
+msgid "Product Page"
+msgstr "Product Page"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:83
+msgid "Sticky Add-To-Cart"
+msgstr "Sticky Add-To-Cart"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:84
+msgid ""
+"A small content bar at the top of the browser window which includes relevant "
+"product information and an add-to-cart button. It slides into view once the "
+"standard add-to-cart button has scrolled out of view."
+msgstr ""
+"A small content bar at the top of the browser window which includes relevant "
+"product information and an add-to-cart button. It slides into view once the "
+"standard add-to-cart button has scrolled out of view."
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:93
+msgid "Product Pagination"
+msgstr "Product Pagination"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:94
+msgid ""
+"Displays next and previous links on product pages. A product thumbnail is "
+"displayed with the title revealed on hover."
+msgstr ""
+"Displays next and previous links on product pages. A product thumbnail is "
+"displayed with the title revealed on hover."
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:75
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:686
+msgid "View your shopping cart"
+msgstr "Səbətinizə baxın"
+
+#. translators: %d: number of items in cart
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:77
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d dənə"
+msgstr[1] "%d dənə"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:330
+msgid "Recent Products"
+msgstr "Son məhsullar"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:384
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:580
+msgid "Featured Products"
+msgstr "Xüsusi məhsullar"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:490
+msgid "On Sale Products"
+msgstr "Endirim məhsulları"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:542
+msgid "Best Selling Products"
+msgstr "Ən çox satılan məhsullar"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:590
+msgid "On Sale Now"
+msgstr "Endirimdə olan məhsullar"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:600
+msgid "New In Store"
+msgstr "Mağazada yeni"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:700
+msgid "My Account"
+msgstr "Mənim hesabım"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:728
+msgid "More products"
+msgstr "Daha çox məhsul"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:791
+msgid "You're viewing:"
+msgstr "Baxırsınız:"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:826
+msgid "Shop by Brand"
+msgstr "Brend ilə alış-veriş edin"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:841
+msgid "Product Brands"
+msgstr "Məhsul brendləri"
+
+#. translators: %s: search term
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Axtarış nəticələri: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Storefront"
+msgstr "Storefront"
+
+#. Theme URI of the plugin/theme
+msgid "https://woocommerce.com/storefront/"
+msgstr "https://woocommerce.com/storefront/"
+
+#. Description of the plugin/theme
+msgid ""
+"Storefront is the perfect theme for your next WooCommerce project. Designed "
+"and developed by WooCommerce Core developers, it features a bespoke "
+"integration with WooCommerce itself plus many of the most popular customer "
+"facing WooCommerce extensions. There are several layout & color options to "
+"personalise your shop, multiple widget regions, a responsive design and much "
+"more. Developers will love its lean and extensible codebase making it a joy "
+"to customize and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr ""
+"Storefront is the perfect theme for your next WooCommerce project. Designed "
+"and developed by WooCommerce Core developers, it features a bespoke "
+"integration with WooCommerce itself plus many of the most popular customer "
+"facing WooCommerce extensions. There are several layout & color options to "
+"personalise your shop, multiple widget regions, a responsive design and much "
+"more. Developers will love its lean and extensible codebase making it a joy "
+"to customize and extend. Looking for a WooCommerce theme? Look no further!"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Full width"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: inc/storefront-template-functions.php:577
+msgctxt "Next post"
+msgid "Next"
+msgstr "Sonrakı"
+
+#: inc/storefront-template-functions.php:578
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Əvvəlki"
